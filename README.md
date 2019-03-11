@@ -6,8 +6,8 @@ WARNING: O app se encontra em processo de desenvolvimento.
 
 SCREENSHOTS:
 
-<img src="images/01.jpg" width="200"> &nbsp; <img src="images/02.jpg" width="200"> &nbsp; 
-<img src="images/03.jpg" width="200"> &nbsp; <img src="images/04.jpg" width="200"> &nbsp; 
+<img src="images/01.png" width="200"> &nbsp; <img src="images/02.png" width="200"> &nbsp; 
+<img src="images/03.png" width="200"> &nbsp; <img src="images/04.png" width="200"> &nbsp; 
 
 
 
