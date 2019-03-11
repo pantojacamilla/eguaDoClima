@@ -17,7 +17,7 @@ Flutter Framework (https://flutter.dev/)
 FEATURES:
 
 Concluído:
-- Implementação da API Open Weather Map(https://openweathermap.org/current)
+- Implementação da API Open Weather Map (https://openweathermap.org/current)
 - Pagina para a escolha da cidade
 - Implementação do DrawerHeader (https://docs.flutter.io/flutter/material/DrawerHeader-class.html)
 - Separação entre página principal e secundária com navegação por Material Page Route(https://docs.flutter.io/flutter/material/MaterialPageRoute-class.html)
