@@ -115,7 +115,7 @@ class _EguaDoClimaState extends State<EguaDoClima> {
                     ),
                     subtitle: new ListTile(
                       title: new Text(
-                        "Humidade: ${content['main']['humidity'].toString()}\n"
+                        "Humidade: ${content['main']['humidity'].toString()} %\n"
                             "Mín: ${content['main']['temp_min'].toString()} C º\n"
                             "Máx: ${content['main']['temp_max'].toString()} C º",
                         style: extraData(),
